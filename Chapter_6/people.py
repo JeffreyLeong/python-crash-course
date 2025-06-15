@@ -19,19 +19,14 @@ my_friend_1= {
         "city": "new york",
     }
 
-my_friend_3 =  {
+my_friend_2 =  {
         "first_name": "travis",
         "last_name": "young",
         "age": 31,
         "city": "atlanta"
     }
 
-people = [
-    my_friend,
-    my_friend_1,
-    my_friend_3,
-    
-]
+people = [my_friend, my_friend_1, my_friend_2,]
 
 for person in people:
     print(f"\nFirst name: {person['first_name'].title()}")

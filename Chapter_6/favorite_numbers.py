@@ -9,7 +9,7 @@ and get some actual data for your program.
 
 favorite_numbers = {
     "john": 69,
-    "mike": 430,
+    "mike": 420,
     "jeff": 21,
     "jd": 7,
     "eman":13,
