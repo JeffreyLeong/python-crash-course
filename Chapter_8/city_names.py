@@ -13,7 +13,7 @@ def city_country(city, country):
 
 name1 = city_country("San Diego", "USA")
 name2 = city_country("Paris", "France")
-name3 = city_country("Belgium", "Germany")
+name3 = city_country("Brussels", "Germany")
 
 print(name1)
 print(name2)

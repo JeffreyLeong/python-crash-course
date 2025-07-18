@@ -25,8 +25,6 @@ great_magicians = []
 transfer_magician(magician_names, great_magicians)
 make_great(great_magicians)
 show_magicians(great_magicians)
-print()
-show_magicians(magician_names)
 
 
 
