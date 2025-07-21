@@ -14,3 +14,4 @@ def make_sandwiches(*toppings):
 
 make_sandwiches("cheese", "turkey")
 make_sandwiches("lettuce", "tomato", "bacon")
+make_sandwiches("tuna", "siracha", "eggs", "mustard")

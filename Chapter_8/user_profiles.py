@@ -15,5 +15,5 @@ def build_profiles(first, last, **user_info):
     return profile
 
 user_profile = build_profiles("Jeffrey", "Leong", hobby="basketball", car="4runner",
-                              age=33)
+                              favorite_dog="husky")
 print(user_profile)
