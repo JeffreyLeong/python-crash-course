@@ -25,6 +25,5 @@ class Restaurant():
 restaurant = Restaurant("Ketch", "seafood")
 print(restaurant.restaurant_name)
 print(restaurant.cuisine_type)
-
 restaurant.open_restaurant()
 restaurant.describe_restaurant()
